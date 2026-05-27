@@ -1,0 +1,5 @@
+we take the test data
+
+we grep all spam Messages, we add "Best Regards, HackTheBox" to them and set them to ham instead of spam
+
+and add them to the normal training data which is poison.csv
