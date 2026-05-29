@@ -1,1 +1,1 @@
-These are models that I've created through the AI Red Teamer path on HackTheBox.
+These are models used in the AI Red Teamer path on HackTheBox.
